@@ -4,7 +4,6 @@
 
 - :sunglasses: I'm Quentin
 - :house: I live in France
-- :snake: I like Python
-- :egg: ,Typescript and golang
+- I like Python, Typescript and golang
 - 🌱 I'm currently learning Rust
 - 😄 Pronouns: he / him
