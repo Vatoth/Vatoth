@@ -4,6 +4,6 @@
 
 - :sunglasses: I'm Quentin
 - :house: I live in France
-- I like Python, Typescript and golang
-- 🌱 I'm currently learning Rust
+- I love decentralized stuff, RISC-V enthusiast.
+- I mainly use the golang and rust ecosystem
 - 😄 Pronouns: he / him
